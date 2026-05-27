@@ -4,12 +4,6 @@
 
 ## Aim
 
-To write a Python program using OpenCV to perform various geometric transform# Geometric Transformations Using OpenCV
-
----
-
-## Aim
-
 To write a Python program using OpenCV to perform various geometric transformations on an image.
 
 The program performs the following operations:
@@ -182,9 +176,6 @@ plt.show()
 ### Image Rotation
 <img width="777" height="435" alt="image" src="https://github.com/user-attachments/assets/52375445-f299-4399-a044-eaa21453e177" />
 
-##  Result
-
-Thus, various geometric transformations such as translation, scaling, shearing, reflection, and rotation are successfully performed using OpenCV. These transformations demonstrate how images can be spatially manipulated for different computer vision applications.
 ##  Result
 
 Thus, various geometric transformations such as translation, scaling, shearing, reflection, and rotation are successfully performed using OpenCV. These transformations demonstrate how images can be spatially manipulated for different computer vision applications.
